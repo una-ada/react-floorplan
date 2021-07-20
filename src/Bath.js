@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Bath = props => <div class="Bath">{props.size} Bath</div>;
+const Bath = props => <div className='Bath'>{props.size} Bath</div>;
 
 export default Bath;

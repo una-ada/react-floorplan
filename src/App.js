@@ -3,7 +3,7 @@ import FloorPlan from "./FloorPlan";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <FloorPlan />
     </div>
   );
